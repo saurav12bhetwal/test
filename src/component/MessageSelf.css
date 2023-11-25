@@ -1,0 +1,19 @@
+.ms-container{
+    background-color: rgb(80, 240, 80);
+    border-radius: 15px;
+    display: flex;
+    width: fit-content;
+    max-width: 70%;
+    height: fit-content;
+    margin: 10px 0;
+    justify-content: flex-end;
+
+}
+.ms-timestamp{
+    align-self: flex-end;
+    margin-right: 5px;
+}
+.ms{
+    display: flex;
+    justify-content: flex-end;
+}

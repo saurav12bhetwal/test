@@ -1,0 +1,19 @@
+.mo-container{
+    background-color: rgb(216, 212, 212);
+    border-radius: 15px;
+    display: flex;
+    /* flex-direction: column; */
+    width: fit-content;
+    max-width: 70%;
+    height: fit-content;
+    margin: 10px 0;
+   
+}
+.mo-timestamp{
+    align-self: flex-end;
+    margin-right: 5px;
+}
+.mo{
+    display: flex;
+    justify-content: flex-start;
+}
